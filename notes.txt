@@ -1,0 +1,6 @@
+ * rst-mode
+ * coverage
+ * twisted.el
+ * ropemacs
+ * dabbrev-mode
+ * magit
